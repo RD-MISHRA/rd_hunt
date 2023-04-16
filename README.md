@@ -1,6 +1,6 @@
 # rd_hunt
 user :john
-password:1234
+password:abcd
 
 admin:
 user:rdmishra@gmail.com
