@@ -10,11 +10,11 @@ password:1234
 LIVE WEBSITE LINK:http://rdhunt.great-site.net/index.php
 
 
-OVERVIEW:
+<h1>OVERVIEW:</h1>
 
-This is a simple picture based treasure hunt game.It is developed by using HTML,CSS,JAVASCRIPT,PHP,BOOTSTRAP etc.
+<This is a simple picture based treasure hunt game.It is developed by using HTML,CSS,JAVASCRIPT,PHP,BOOTSTRAP etc.
 
-GAME DISCRIPTION:
+<h1>GAME DISCRIPTION:</h1>
 
 1.At each level in the game the player has to chose the correct picture according to the clues given in the level.
 
@@ -23,7 +23,7 @@ GAME DISCRIPTION:
 3.If player is unable to find the right picture then he can click on hint button to see the right answer
 
 
-LOGIN PAGE:
+<h1>LOGIN PAGE:</h1>
 ![Screenshot (285)](https://user-images.githubusercontent.com/125600380/232455247-621a9746-55d0-4c29-b767-03ac03917eaa.png)
 
 This will be the first page where users will land. The new user can register through register button.
@@ -34,7 +34,7 @@ User name:john
 
 Password:abcd
 
-REGISTER PAGE:
+<h1>REGISTER PAGE:</h1>
 ![Screenshot (287)](https://user-images.githubusercontent.com/125600380/232456843-ea768079-d271-47ca-8c92-28a3da008d75.png)
 
 ADMIN PAGE:
@@ -44,7 +44,7 @@ When admin will enter its credentials as
 user:rdmishra@gmail.com 
 
 password:1234 
-it will land on the gaming page where it can also play game.When aDmin enters backspace he will land on page where he can see the name of member 
+it will land on the gaming page where it can also play game.When click on logout button  he will land on page where he can see the name of member 
 registered and various attributes related to them.
 
 ![Screenshot (294)](https://user-images.githubusercontent.com/125600380/232457346-867c37f2-85e8-4e29-a7d5-5d8e2c6fd648.png)
