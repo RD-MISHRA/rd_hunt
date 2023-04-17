@@ -6,6 +6,10 @@ password:abcd
 admin:rdmishra@gmail.com
 
 password:1234
+
+LIVE WEBSITE LINK:http://rdhunt.great-site.net/index.php
+
+
 OVERVIEW:
 
 This is a simple picture based treasure hunt game.It is developed by using HTML,CSS,JAVASCRIPT,PHP,BOOTSTRAP etc.
