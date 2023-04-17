@@ -1,4 +1,3 @@
-# How to Make Multi User Role Based Login Form in PHP and MySQL
 
 version: 1.0.0
 
