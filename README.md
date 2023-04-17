@@ -22,3 +22,15 @@ GAME DISCRIPTION:
 LOGIN PAGE:
 ![Screenshot (285)](https://user-images.githubusercontent.com/125600380/232455247-621a9746-55d0-4c29-b767-03ac03917eaa.png)
 
+This will be the first page where users will land. The new user can register through register button.
+
+If there is any error in register then login through following credential
+
+User name:john
+
+Password:abcd
+
+REGISTER PAGE:
+
+
+
