@@ -24,7 +24,9 @@ LIVE WEBSITE LINK:http://rdhunt.great-site.net/index.php
 
 
 <h1>LOGIN PAGE:</h1>
-![Screenshot (285)](https://user-images.githubusercontent.com/125600380/232455247-621a9746-55d0-4c29-b767-03ac03917eaa.png)
+
+![Screenshot (285)](https://user-images.githubusercontent.com/125600380/232857295-31503f56-9a2d-49ea-8cb9-75cc58203273.png)
+
 
 This will be the first page where users will land. The new user can register through register button.
 
@@ -35,6 +37,7 @@ User name:john
 Password:abcd
 
 <h1>REGISTER PAGE:</h1>
+
 ![Screenshot (287)](https://user-images.githubusercontent.com/125600380/232456843-ea768079-d271-47ca-8c92-28a3da008d75.png)
 
 ADMIN PAGE:
